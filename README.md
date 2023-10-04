@@ -36,15 +36,13 @@
    - 1시간 간격 승하차 인원 정보
    - 데이터 형태
 
-    ![2](https://github.com/addinedu-amr-4th/eda-repo-3/assets/104709955/ead67793-8cd5-4d76-a940-b3a22babe6c9)
-
+![2](https://github.com/addinedu-amr-4th/eda-repo-3/assets/104709955/ead67793-8cd5-4d76-a940-b3a22babe6c9)
  - 서울교통공사 지하철역 주소 및 전화번호 정보
     - [주소링크](http://data.seoul.go.kr/dataList/OA-12035/A/1/datasetView.do)
     - 지하철역의 위치를 알아내기 위해 사용
     - 데이터 형태
  
-      ![5](https://github.com/addinedu-amr-4th/eda-repo-3/assets/104709955/dc1af260-28e6-4bf4-8369-f0c4c9d26700)
-
+ ![5](https://github.com/addinedu-amr-4th/eda-repo-3/assets/104709955/dc1af260-28e6-4bf4-8369-f0c4c9d26700)
  - 종관기상관측(ASOS)
    - [주소링크](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pg) 
    - 수집 기간 2018 ~ 2022 (5년)
@@ -52,9 +50,7 @@
    - 날씨를 파악하기 위해 정해진 시각에 모든 관측소에서 관측을 같은 시각에 실시하는 지상관측
    - 데이터 형태
  
-     ![7](https://github.com/addinedu-amr-4th/eda-repo-3/assets/104709955/4bbfbe74-0756-4538-bdbe-2838f9b32a3a)
-
-
+ ![7](https://github.com/addinedu-amr-4th/eda-repo-3/assets/104709955/4bbfbe74-0756-4538-bdbe-2838f9b32a3a)
 #### DB 관계도
 
 
